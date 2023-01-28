@@ -1,20 +1,23 @@
 /* Tags */
-
 h1 {
     color: #1B262C;
 }
+
 
 body {
     background-color: #BBE1FA;
 }
 
+
 h3 {
     color: #0F4C75;
 }
 
+
 h4 {
     color: #3282B8;
 }
+
 
 hr {
     background-color: transparent;
@@ -24,6 +27,7 @@ hr {
     height: 20px;
     width: 03%;
 }
+
 
 th {
     color: #3282B8;
